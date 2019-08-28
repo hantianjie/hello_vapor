@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/diandiantong/HTJ_Hello/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
